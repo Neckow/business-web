@@ -8,7 +8,8 @@
         }
         ul {
             list-style-type: none;
-            background: cornflowerblue;
+            background: gray;
+            margin-left: 25%;
         }
         li {
             float: left;
@@ -20,9 +21,10 @@
     <body>
         <nav >
             <ul class="nav">
-                <li><a href="home.php">Home</a></li>
-                <li><a href="restock.php">Restocking list</a></li>
+                <li><a href="Home.php">Home</a></li>
+                <li><a href="Restock.php">Restocking list</a></li>
             </ul>
         </nav>
+        </br>
     </body>
 </html>

@@ -1,5 +1,5 @@
-
-<form action="./home.php">
+</br>
+<form action="Home.php">
     <fieldset>
         <legend>Type your research</legend>
         <input name="research" type="text" required />
@@ -13,12 +13,3 @@
     </fieldset>
     </form>
 
-
-<!-- <?php
-if (isset($_GET['research'])){
-    echo 'lol';
-}
-else {
-    echo "Please fill the field";
-}
-?> -->
